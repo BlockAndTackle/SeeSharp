@@ -1,0 +1,12 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\home\brian\DEV\CS\LearningC#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache

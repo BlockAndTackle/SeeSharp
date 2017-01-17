@@ -1,0 +1,4 @@
+C:\home\brian\DEV\CSharpSamples\LanguageSamples\HelloWorld\HelloWorld1\bin\Debug\ConsoleApplication.exe
+C:\home\brian\DEV\CSharpSamples\LanguageSamples\HelloWorld\HelloWorld1\bin\Debug\ConsoleApplication.pdb
+C:\home\brian\DEV\CSharpSamples\LanguageSamples\HelloWorld\HelloWorld1\obj\x86\Debug\ConsoleApplication.exe
+C:\home\brian\DEV\CSharpSamples\LanguageSamples\HelloWorld\HelloWorld1\obj\x86\Debug\ConsoleApplication.pdb

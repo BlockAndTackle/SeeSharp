@@ -1,0 +1,2 @@
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config

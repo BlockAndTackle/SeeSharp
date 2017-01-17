@@ -1,0 +1,12 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\home\brian\DEV\CS\LearningC#\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\bin\Debug\Variables.exe.config
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\bin\Debug\Variables.exe
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\bin\Debug\Variables.pdb
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\obj\Debug\Variables.exe
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Variables\Variables\obj\Debug\Variables.pdb

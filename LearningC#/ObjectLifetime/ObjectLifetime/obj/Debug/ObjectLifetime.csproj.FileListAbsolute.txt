@@ -1,0 +1,12 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb
+C:\home\brian\DEV\CS\LearningC#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\home\brian\DEV\CS\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\home\brian\DEV\CS\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb
+C:\home\brian\DEV\C#\LearningC#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\home\brian\DEV\C#\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\home\brian\DEV\C#\LearningC#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

@@ -1,0 +1,12 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\bin\Debug\Strings.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\bin\Debug\Strings.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\bin\Debug\Strings.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\obj\Debug\Strings.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\Strings\Strings\obj\Debug\Strings.pdb
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\bin\Debug\Strings.exe.config
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\obj\Debug\Strings.exe
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\obj\Debug\Strings.pdb
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\bin\Debug\Strings.exe
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\bin\Debug\Strings.pdb
+C:\home\brian\DEV\CS\LearningC#\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

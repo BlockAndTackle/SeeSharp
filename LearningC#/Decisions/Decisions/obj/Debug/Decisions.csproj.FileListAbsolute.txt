@@ -1,0 +1,1 @@
+C:\home\brian\DEV\CS\Projects\VS2013 projects\LearningC#\Decisions\Decisions\bin\Debug\Decisions.exe.config

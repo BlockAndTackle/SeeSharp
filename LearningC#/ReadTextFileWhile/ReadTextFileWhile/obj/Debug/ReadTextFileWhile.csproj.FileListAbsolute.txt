@@ -1,0 +1,17 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\values.txt
+C:\home\brian\DEV\CS\VS2013 projects\LearningCSharp\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningCSharp\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningCSharp\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\values.txt
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\home\brian\DEV\CS\LearningC#\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache

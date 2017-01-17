@@ -1,0 +1,6 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\bin\Debug\EqualityExamples.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\bin\Debug\EqualityExamples.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\bin\Debug\EqualityExamples.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\obj\Debug\EqualityExamples.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\obj\Debug\EqualityExamples.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\EqualityExamples\EqualityExamples\obj\Debug\EqualityExamples.pdb

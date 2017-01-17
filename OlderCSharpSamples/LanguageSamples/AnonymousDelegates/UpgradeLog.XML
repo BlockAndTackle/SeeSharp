@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AnonymousDelegates">
+</Property><Property Name="Solution File" Value="C:\Home\brian\DEV\CSharpSamples\LanguageSamples\AnonymousDelegates\AnonymousDelegates.sln">
+</Property><Property Name="Date" Value="Thursday, November 07, 2013">
+</Property><Property Name="Time" Value="17:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AnonymousDelegates.sln" Description="File successfully backed up as C:\Home\brian\DEV\CSharpSamples\LanguageSamples\AnonymousDelegates\Backup\AnonymousDelegates.sln">
+</Event><Event ErrorLevel="0" Project="AnonymousDelegates" Source="AnonymousDelegates.csproj" Description="Project file successfully backed up as C:\Home\brian\DEV\CSharpSamples\LanguageSamples\AnonymousDelegates\Backup\AnonymousDelegates.csproj">
+</Event><Event ErrorLevel="0" Project="AnonymousDelegates" Source="AnonymousDelegates.cs" Description="File successfully backed up as C:\Home\brian\DEV\CSharpSamples\LanguageSamples\AnonymousDelegates\Backup\AnonymousDelegates.cs">
+</Event><Event ErrorLevel="0" Project="AnonymousDelegates" Source="ReadMe.htm" Description="File successfully backed up as C:\Home\brian\DEV\CSharpSamples\LanguageSamples\AnonymousDelegates\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="1" Project="AnonymousDelegates" Source="AnonymousDelegates.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="AnonymousDelegates" Source="AnonymousDelegates.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnonymousDelegates" Source="AnonymousDelegates.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AnonymousDelegates.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AnonymousDelegates.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnonymousDelegates" Source="AnonymousDelegates.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\home\brian\DEV\CS\VS2013 projects\LearningC#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

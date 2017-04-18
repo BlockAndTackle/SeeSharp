@@ -7,3 +7,6 @@ C:\home\brian\DEV\CS\VS2013 projects\LearningC#\SimpleClasses\SimpleClasses\obj\
 C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
 C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache

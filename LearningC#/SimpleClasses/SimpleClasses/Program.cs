@@ -13,12 +13,17 @@ namespace SimpleClasses
         {
             // create instance of the car class object
             Car myNewCar = new Car(); // this is a new instance of an object of the type Car
+            Car fooCar = new Car(); // another instance of the car class
             
             // populate it's properties
             myNewCar.Make = "Oldsmobile";
             myNewCar.Model = "Cutlas Supreme";
             myNewCar.Year = 1996;
             myNewCar.Color = "Silver";
+
+            // Console out the output
+            Console.WriteLine("{0} {1} {2} {3}", myNewCar.Make, myNewCar.Model, myNewCar.Year, myNewCar.Color);
+            Console.WriteLine("");
 
             // print out (get) the values of the properties for this new class instance (class object)
             string strMyNewCarInfo = myNewCar.Year + " " + myNewCar.Make + " " + myNewCar.Model + " - color: " + myNewCar.Color;

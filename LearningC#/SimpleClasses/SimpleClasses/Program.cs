@@ -101,7 +101,6 @@ namespace SimpleClasses
 
         // class method
         // does the same thing as determineMarketValue helper method above
-
         public decimal clsDetermineMarketValue()
         {
             // again hard-code the value for now

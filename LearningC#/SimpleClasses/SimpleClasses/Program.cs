@@ -18,52 +18,50 @@ namespace SimpleClasses
             // populate it's properties
             myNewCar.Make = "Oldsmobile";
             myNewCar.Model = "Cutlas Supreme";
-            myNewCar.Year = 1996;
+            myNewCar.Year = 1976;
             myNewCar.Color = "Silver";
 
-            // Console out the output
+            // Console out the output of the values we just assigned to the prperties of the new instance of the Car class object
             Console.WriteLine("{0} {1} {2} {3}", myNewCar.Make, myNewCar.Model, myNewCar.Year, myNewCar.Color);
             Console.WriteLine("");
 
-            // print out (get) the values of the properties for this new class instance (class object)
-            string strMyNewCarInfo = myNewCar.Year + " " + myNewCar.Make + " " + myNewCar.Model + " - color: " + myNewCar.Color;
-            CreateOutputAndFinish(strMyNewCarInfo);
-            
             //////////////////////////////////////////////////////////////////////////////////////
-            // 2 ways to call a method to get a number for car value
-            // 1) we can create a helper method (as we have done below - determineMarketValue ) that returns the value somehow
-            // OR
-            // 2) we can create a class method - which we have created in the class and it is called DetermineMarketValue
+            /* 2 ways to call a method to get a number for car value:
+            1) create a helper method (as we have done below - hlpDetermineMarketValue ) that returns the value somehow
+            2) create a class method - which we have created in the class and it is called clsDetermineMarketValue */
 
-            // 1) call a helper method to get the car value
-            /*
+            // 1) call a class method to get the car value
             // call the helper method and pass it the car class instance object
-            double dblHelperMethodDerivedMarketValueOfCar = determineMarketValue(myNewCar);
+            decimal decimalHelperMethodDerivedMarketValueOfCar = hlpDetermineMarketValue(myNewCar);
             // print out car value after returned from helper function
-            string strHelperMethodDerivedMarketValueOfCar = string.Format("Car value = {0:C}", dblHelperMethodDerivedMarketValueOfCar);
-            CreateOutputAndFinish(strHelperMethodDerivedMarketValueOfCar);
-            */
-            // 2) or call a class method to get the car value
-            /*
-            // call the class method - notice we do not pass anything we simply ask the class to return the value by calling the method on the class object
-            double dblClassMethodDerivedMarketValueOfCar = myNewCar.DetermineMarketValue();
-            string strClassMethodDerivedMarketValueOfCar = string.Format("Car value = {0:C}", dblClassMethodDerivedMarketValueOfCar);
-            // print out car value after returned from helper function
-            CreateOutputAndFinish(strClassMethodDerivedMarketValueOfCar);
-            */
-        }
-        private static double determineMarketValue(Car car)
-        // helper method for determining car value that will allow the user to pass in an instance of the car class
-        // this is demonstrating that an object instance of the new care class can be used anywhere in code
-        // even as an input parameter into a helper method
-        {
-            // just hardcoding the value below, but someday writing some code that retrieves the valus from the internet or an API would be what is needed
-            // that value would then be returned as the car's value variable
-            double carValue = 1000.0;
-            return carValue;
-        }
+            string strHelperMethodDerivedMarketValueOfCar = string.Format("Car value returned from helper method hlpDetermineMarketValue = {0:C}", decimalHelperMethodDerivedMarketValueOfCar);
+            CreateTestOutput(strHelperMethodDerivedMarketValueOfCar);
 
-        private static void CreateOutputAndFinish(string strOutPut)
+            // 2) call a class method to get the car value
+            // call the class method - notice we do not pass anything we simply ask the class to return the value by calling the method on the class object
+            decimal decimalClassMethodDerivedMarketValueOfCar = myNewCar.clsDetermineMarketValue();
+            string strClassMethodDerivedMarketValueOfCar = string.Format("Car value returned from class method clsDetermineMarketValue  = {0:C}", decimalClassMethodDerivedMarketValueOfCar);
+            // print out car value after returned from helper function
+            CreateTestOutput(strClassMethodDerivedMarketValueOfCar);
+            //////////////////////////////////////////////////////////////////////////////////////
+
+            /* Console print out (again) the values of the properties for this new class instance (class object) using our built-in method CreateOutputAndFinish
+            string strMyNewCarInfo = myNewCar.Year + " " + myNewCar.Make + " " + myNewCar.Model + " - color: " + myNewCar.Color;
+            CreateOutputAndFinish(strMyNewCarInfo); */
+        }
+        private static decimal hlpDetermineMarketValue(Car car)
+            // helper method for determining car value that will allow the user to pass in an instance of the car class
+            // this is demonstrating that an object instance of the new care class can be used anywhere in code
+            // even as an input parameter into a helper method
+            {
+                decimal carValue = 10000.0M;
+                return carValue;
+            
+                // just hardcoding the value, but someday writing some code that retrieves the valus from the internet or an API would be what is needed
+                // that value would then be returned as the car's value variable
+            }
+
+        private static void CreateTestOutput(string strOutPut)
         {
             // write to the debug output window (seen after code is done running)
             // using Debug class requires a Using statment for using System.Diagnostics
@@ -75,11 +73,12 @@ namespace SimpleClasses
             Debug.WriteLine("");
 
             // write to the console window
+            Console.WriteLine("");
             Console.WriteLine(strOutPut);
             Console.WriteLine("");
-            Console.WriteLine("Check output window in IDE for more output example");
+            Console.WriteLine("Check output window in IDE for more output...");
             Console.WriteLine("");
-            Console.WriteLine("Press any key to end...");
+            Console.WriteLine("Press any key to return...");
             Console.ReadKey();
         }
     }
@@ -103,16 +102,16 @@ namespace SimpleClasses
         // class method
         // does the same thing as determineMarketValue helper method above
 
-        public double DetermineMarketValue()
+        public decimal clsDetermineMarketValue()
         {
             // again hard-code the value for now
-            double carValue = 0.00;
+            decimal carValue = 0.00M;
 
             if (this.Year > 1990) // the "this" keyword allows you access all of the private and public members of a class
-                carValue = 10000.00;
+                carValue = 10000.00M;
             else
-                carValue = 2000.00;
-                return carValue;
+                carValue = 2000.00M;
+            return carValue;
         }
 
     }

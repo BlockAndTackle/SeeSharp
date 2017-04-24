@@ -1,0 +1,6 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

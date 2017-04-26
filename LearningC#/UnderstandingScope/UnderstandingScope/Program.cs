@@ -25,7 +25,7 @@ namespace UnderstandingScope // understanding the scope of methods, properties, 
                     Console.WriteLine("i = " + l);
                     Console.WriteLine("");
                 }
-                //Console.WriteLine("i= " + l); // again - get error because l is defined inside f the if statement etc etc
+                //Console.WriteLine("i= " + l); // again - get error because l is defined inside of the if  (i == 9) statement etc etc
 
             }
             // Console.WriteLine(i); // causes error because i at this time is only operting within the for loop abve and is not defined in this context (part of the code)
@@ -50,7 +50,8 @@ namespace UnderstandingScope // understanding the scope of methods, properties, 
         }
     }
 
-    // this class below simply illustrates the notion of encapsulation (where methods are available to the contexts that they are specified for only - using the Private or Public keywords
+    // The class below simply illustrates the notion of encapsulation (where methods are available to the contexts that they are specified for only - using the Private or Public keywords
+    // These private and public fields or definitions are defined in C# as "accessibility modifiers" because they modify the accessbility of the code in the class, method, etc...
     class Car
     {
         public void DoSomething()

@@ -1,0 +1,6 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csprojResolveAssemblyReference.cache

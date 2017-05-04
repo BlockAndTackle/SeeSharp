@@ -1,0 +1,5 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\obj\Debug\ScrapeLibrary.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb

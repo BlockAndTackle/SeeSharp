@@ -1,0 +1,5 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb

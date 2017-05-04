@@ -1,0 +1,8 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\MyClient\MyClient\obj\Debug\MyClient.pdb

@@ -1,0 +1,8 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\bin\Release\ScrapeClient.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\bin\Release\ScrapeClient.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\bin\Release\ScrapeClient.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\bin\Release\ScrapeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\bin\Release\ScrapeLibrary.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\obj\Release\ScrapeClient.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\obj\Release\ScrapeClient.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeClient\obj\Release\ScrapeClient.pdb

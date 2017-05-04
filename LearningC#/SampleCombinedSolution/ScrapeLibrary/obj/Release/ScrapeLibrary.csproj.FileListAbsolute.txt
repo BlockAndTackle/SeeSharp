@@ -1,0 +1,4 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\bin\Release\ScrapeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\bin\Release\ScrapeLibrary.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\obj\Release\ScrapeLibrary.dll
+C:\home\brian\DEV\SeeSharp\LearningC#\SampleCombinedSolution\ScrapeLibrary\obj\Release\ScrapeLibrary.pdb

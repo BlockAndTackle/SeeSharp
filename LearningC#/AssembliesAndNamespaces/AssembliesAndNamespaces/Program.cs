@@ -13,6 +13,23 @@ namespace AssembliesAndNamespaces
         static void Main(string[] args)
         {
 
+            /*
+            
+            C# Assembly: A section of a .Net code library (can also be called a built-in class) saved out to a file.
+            - We use or add these assemblies via namespaces in our code
+            - We reference them as references added to our project via the Add Reference dialog
+            - and We add them to our project via assemmbly tools like NuGet - which is accessed from the Tools menu in Visual Studio
+            The projects we build and compile in C# are also .Net assemblies technically since they are compiled to use the .Net runtime etc etc...
+            
+            Namespace: 2 main purposes in C#:
+            1. used by the .Net Framework in order to organize its many classes
+            - in the following example: System.Console.WriteLine();, System is the namespace that conaints the Console class...
+            - The "using" keyword is used in typical code in order allow the coder to forego using the full namespace in the calls below and then do Console.WriteLine(); and so on...
+            2. Declaring your own namespaces can help you control the scope of class and method names in larger programming projects.
+            - Use the namespace keyword to declare a namespace, as in the namespace declaration above for this AssembliesAndNamespaces namespace (Assembly)
+            
+            */
+
             ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
             // Example 1
             ///////////////////////////////////////////////////////////////////////////////////////////////////////////////

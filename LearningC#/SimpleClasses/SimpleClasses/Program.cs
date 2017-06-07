@@ -47,7 +47,7 @@ namespace SimpleClasses
 
             /* Console print out (again) the values of the properties for this new class instance (class object) using our built-in method CreateOutputAndFinish
             string strMyNewCarInfo = myNewCar.Year + " " + myNewCar.Make + " " + myNewCar.Model + " - color: " + myNewCar.Color;
-            CreateOutputAndFinish(strMyNewCarInfo); */
+            CreateTestOutput(strMyNewCarInfo); */
         }
         private static decimal hlpDetermineMarketValue(Car car)
             // helper method for determining car value that will allow the user to pass in an instance of the car class

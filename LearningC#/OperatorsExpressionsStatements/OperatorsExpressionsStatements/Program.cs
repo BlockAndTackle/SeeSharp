@@ -44,8 +44,7 @@ namespace OperatorsExpressionsStatements
             // inline conditional operator
             string message = (x == 1) ? "Car" : "Boat";
 
-            //etc
-            //etc
+            //etc etc etc
 
         }
     }

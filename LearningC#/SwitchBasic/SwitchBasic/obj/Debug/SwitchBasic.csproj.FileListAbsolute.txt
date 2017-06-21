@@ -1,0 +1,6 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\bin\Debug\SwitchBasic.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\bin\Debug\SwitchBasic.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\bin\Debug\SwitchBasic.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\obj\Debug\SwitchBasic.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\obj\Debug\SwitchBasic.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\SwitchBasic\SwitchBasic\obj\Debug\SwitchBasic.pdb

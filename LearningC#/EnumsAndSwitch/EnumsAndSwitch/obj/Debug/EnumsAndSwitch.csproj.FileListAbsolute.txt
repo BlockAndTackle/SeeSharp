@@ -1,0 +1,6 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

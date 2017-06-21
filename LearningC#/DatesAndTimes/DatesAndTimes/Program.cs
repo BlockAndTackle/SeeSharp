@@ -87,7 +87,7 @@ namespace DatesAndTimes
 
             // Compare 2 dates and print out result delta (my age in years)
             // print out my age in years
-            /*
+            
             DateTime dtMyBirthday = new DateTime(1966, 2, 5);
             DateTime dtNow = DateTime.Now;
             TimeSpan tsMyAgeDays = dtNow - dtMyBirthday;
@@ -95,7 +95,7 @@ namespace DatesAndTimes
             double dblMyAgeYears = dblMyAgeDays/365;
             string strMyAgeYears = dblMyAgeYears.ToString();
             CreateOutputAndFinish(strMyAgeYears);
-            */
+            
         }
 
         private static void CreateOutputAndFinish(string strOutPut)
@@ -104,7 +104,7 @@ namespace DatesAndTimes
             // using Debug class requires a Using statment for using System.Diagnostics
             Debug.WriteLine("");
             Debug.WriteLine("------------");
-            Debug.WriteLine("DEBUG OUTPUGT FOR TESTING PURPOSES TYPICALLY");
+            Debug.WriteLine("DEBUG OUTPUT FOR TESTING PURPOSES TYPICALLY");
             Debug.WriteLine(strOutPut);
             Debug.WriteLine("------------");
             Debug.WriteLine("");

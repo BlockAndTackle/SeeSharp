@@ -1,3 +1,5 @@
+# THIS IS THE DEFAULT GITHUB PAGES TEXT - FEAR NOT!!!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BlockAndTackle/SeeSharp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

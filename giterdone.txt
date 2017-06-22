@@ -1,0 +1,4 @@
+this batch file does the following steps in a Git repo:
+git add * // add all files that are changed or new etc
+git commit -m "global repo changes added, committed, and pushed via giterdone.bat batch file" //commit the changes
+git push origin master //push the changes to the master branch of the repo on the server...

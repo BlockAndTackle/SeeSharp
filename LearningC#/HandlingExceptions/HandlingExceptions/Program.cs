@@ -18,15 +18,21 @@ namespace HandlingExceptions
             }
             catch (FileNotFoundException exError)
             {
-                ErrorCatchAndRelease(exError);
+                Console.WriteLine("There was a problem...");
+                Console.WriteLine("");
+                Console.WriteLine();
+                Console.ReadLine();
+                // ErrorCatchAndRelease(exError);
             }
             catch (DirectoryNotFoundException exError)
             {
-                ErrorCatchAndRelease(exError);
+                
+                // ErrorCatchAndRelease(exError);
             }
             catch (Exception exError)
             {
-                ErrorCatchAndRelease(exError);
+                
+                // ErrorCatchAndRelease(exError);
             }
 
         }

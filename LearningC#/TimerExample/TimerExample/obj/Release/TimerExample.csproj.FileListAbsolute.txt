@@ -1,0 +1,6 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\bin\Release\TimerExample.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\bin\Release\TimerExample.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\bin\Release\TimerExample.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\obj\Release\TimerExample.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\obj\Release\TimerExample.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\TimerExample\TimerExample\obj\Release\TimerExample.pdb

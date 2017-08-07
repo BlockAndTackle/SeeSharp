@@ -1,0 +1,13 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

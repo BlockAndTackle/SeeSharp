@@ -10,6 +10,7 @@ namespace ConsoleAppSample
 			Console.WriteLine("Please enter your name below:");
 			strName = Console.ReadLine();
 			Console.WriteLine($"Hello {strName}!!!");
+            Console.ReadLine();
         }
     }
 }

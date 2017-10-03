@@ -8,3 +8,4 @@ C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\Conso
 C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.pdb
 C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.dll
 C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.pdb
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.csprojResolveAssemblyReference.cache

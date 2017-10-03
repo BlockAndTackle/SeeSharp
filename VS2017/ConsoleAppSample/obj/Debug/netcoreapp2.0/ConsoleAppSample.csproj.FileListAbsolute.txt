@@ -1,0 +1,10 @@
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.csproj.CoreCompileInputs.cache
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.AssemblyInfoInputs.cache
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.AssemblyInfo.cs
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.deps.json
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.runtimeconfig.json
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.runtimeconfig.dev.json
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.dll
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\bin\Debug\netcoreapp2.0\ConsoleAppSample.pdb
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.dll
+C:\home\brian\DEV\SeeSharp\VS2017\ConsoleAppSample\obj\Debug\netcoreapp2.0\ConsoleAppSample.pdb

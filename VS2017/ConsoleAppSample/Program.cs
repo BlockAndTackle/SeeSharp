@@ -1,4 +1,8 @@
 ﻿using System;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Hosting;
+using MovingToTheWeb;
 
 namespace ConsoleAppSample
 {
@@ -6,11 +10,12 @@ namespace ConsoleAppSample
     {
         static void Main(string[] args)
         {
-			string strName;
-			Console.WriteLine("Please enter your name below:");
-			strName = Console.ReadLine();
-			Console.WriteLine($"Hello {strName}!!!");
-            Console.ReadLine();
+            var host = new WebHostBuilder()
+                .UseKestrel()
+                .UseStartup<Startup>()
+                .Build();
+
+            host.Run();
         }
     }
 }

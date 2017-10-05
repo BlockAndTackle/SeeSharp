@@ -5274,6 +5274,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\home\\brian\\DEV\\SeeSharp\\VS2017\\ConsoleAppSample\\ConsoleAppSample.csproj",
       "projectName": "ConsoleAppSample",
@@ -5309,14 +5312,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
-          },
-          "Microsoft.AspNetCore": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [

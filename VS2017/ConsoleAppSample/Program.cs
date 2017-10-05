@@ -9,6 +9,8 @@ namespace ConsoleAppSample
     class Program
     {
         static void Main(string[] args)
+
+            // this was a basic Hello World console app, but then was converted into a web app by adding a REF to (through Nuget) to ASPNetCore
         {
             var host = new WebHostBuilder()
                 .UseKestrel()

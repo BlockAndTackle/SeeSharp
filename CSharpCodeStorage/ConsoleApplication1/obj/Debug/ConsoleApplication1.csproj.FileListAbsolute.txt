@@ -1,3 +1,0 @@
-C:\home\brian\DEV\CS\Projects\VS2013 projects\CSharpCodeStorage\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\home\brian\DEV\CS\Projects\VS2013 projects\CSharpCodeStorage\ConsoleApplication1\bin\Debug\CSharpCodeStorage.exe.config
-C:\home\brian\DEV\CS\VS2013 projects\CSharpCodeStorage\ConsoleApplication1\bin\Debug\CSharpCodeStorage.exe.config

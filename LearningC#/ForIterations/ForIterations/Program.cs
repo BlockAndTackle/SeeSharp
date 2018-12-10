@@ -18,14 +18,13 @@ namespace ForIterations
             b) while the variable meets the follow condition;
             c) then iterate incrementally as in i=i+1 and do whatever is inside of the curly brackets below
             */
-            /*
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(i.ToString());
             }
+            // int x = i;
             Console.ReadLine();
-            */
-
+            
             ///////////////////////////////////////////////////////////////////////////////////////
             // another version:
             /*
@@ -38,7 +37,7 @@ namespace ForIterations
 
             ///////////////////////////////////////////////////////////////////////////////////////
             // For iterations samples
-            for (int i = 0; i < 10; i++)
+            /* for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(i.ToString());
 
@@ -48,10 +47,12 @@ namespace ForIterations
                     break;
                 }
             }
+            */
 
             ///////////////////////////////////////////////////////////////////////////////////////
             // Using the "code snippet" feature to create another loop. To create the below code we simply put the IP on a new line and type "for" then
             // hit tab twice - this creates a new loop structure with all of the existing variables so I can easily add a new one...
+            /*
             for (int iReplacedByAVariableIChoose = 0; iReplacedByAVariableIChoose < 12; iReplacedByAVariableIChoose++)
             {
                 Console.WriteLine(iReplacedByAVariableIChoose);
@@ -60,7 +61,7 @@ namespace ForIterations
             // Console.ReadLine();
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
-            
+            */
         }
     }
 }

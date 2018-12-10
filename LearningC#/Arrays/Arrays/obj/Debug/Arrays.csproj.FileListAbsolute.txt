@@ -1,0 +1,7 @@
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\bin\Debug\UnderstandingArrays.exe.config
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\bin\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\bin\Debug\UnderstandingArrays.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\obj\Debug\UnderstandingArrays.exe
+C:\home\brian\DEV\SeeSharp\LearningC#\Arrays\Arrays\obj\Debug\UnderstandingArrays.pdb

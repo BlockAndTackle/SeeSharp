@@ -1,0 +1,11 @@
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\bin\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.deps.json
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\bin\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.runtimeconfig.json
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\bin\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.runtimeconfig.dev.json
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\bin\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.dll
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\bin\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.pdb
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.csprojResolveAssemblyReference.cache
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.csproj.CoreCompileInputs.cache
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.AssemblyInfoInputs.cache
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.AssemblyInfo.cs
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.dll
+C:\home\brian\DEV\SeeSharp\VS2017\DotNetWebAppFromCommandLine\obj\Debug\netcoreapp2.0\DotNetWebAppFromCommandLine.pdb

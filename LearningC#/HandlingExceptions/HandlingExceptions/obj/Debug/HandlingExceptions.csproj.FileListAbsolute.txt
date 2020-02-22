@@ -1,6 +1,6 @@
 C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
 C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
-C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csprojResolveAssemblyReference.cache
 C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csprojAssemblyReference.cache

@@ -2,14 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\LearningC#",
-<<<<<<< HEAD
-    "\\LearningC#\\DatesAndTimes\\DatesAndTimes"
+    "\\LearningC#\\DatesAndTimes",
+    "\\LearningC#\\DatesAndTimes\\DatesAndTimes",
+    "\\LearningC#\\Decisions"
   ],
-  "SelectedNode": "\\LearningC#\\DatesAndTimes",
-=======
-    "\\LearningC#\\HandlingExceptions"
-  ],
-  "SelectedNode": "\\LearningC#\\HandlingExceptions\\HandlingExceptions.sln",
->>>>>>> f8b3e5302fd45ecc5cef3b284cc03c3008e63963
+  "SelectedNode": "\\LearningC#\\DatesAndTimes\\DatesAndTimes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

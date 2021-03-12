@@ -8,3 +8,4 @@ C:\home\brian\DEV\SeeSharp\LearningC#\DatesAndTimes\DatesAndTimes\obj\Debug\Date
 C:\home\brian\DEV\SeeSharp\LearningC#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
 C:\home\brian\DEV\SeeSharp\LearningC#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\home\brian\DEV\SeeSharp\LearningC#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojAssemblyReference.cache

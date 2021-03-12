@@ -7,7 +7,6 @@ C:\home\brian\DEV\CS\VS2013 projects\LearningC#\ForIterations\ForIterations\obj\
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
-C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.csproj.CoreCompileInputs.cache
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.pdb

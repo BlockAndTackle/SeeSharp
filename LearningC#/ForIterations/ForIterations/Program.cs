@@ -23,7 +23,11 @@ namespace ForIterations
                 Console.WriteLine(i.ToString());
             }
             // int x = i;
-            Console.ReadLine();
+            // Console.ReadLine();
+
+            // end running command window...
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
             
             ///////////////////////////////////////////////////////////////////////////////////////
             // another version:

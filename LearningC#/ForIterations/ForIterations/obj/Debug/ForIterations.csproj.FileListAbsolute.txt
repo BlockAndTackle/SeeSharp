@@ -10,3 +10,9 @@ C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForI
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.csproj.CoreCompileInputs.cache
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.exe
 C:\home\brian\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.pdb
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.csproj.CoreCompileInputs.cache
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+C:\brian_dev\DEV\SeeSharp\LearningC#\ForIterations\ForIterations\obj\Debug\ForIterations.pdb

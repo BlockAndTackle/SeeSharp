@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\LearningC#",
-    "\\LearningC#\\DatesAndTimes",
     "\\LearningC#\\DatesAndTimes\\DatesAndTimes",
-    "\\LearningC#\\Decisions",
-    "\\LearningC#\\ForIterations"
+    "\\LearningC#\\ForIterations",
+    "\\LearningC#\\ForIterations\\ForIterations"
   ],
-  "SelectedNode": "\\LearningC#\\DatesAndTimes\\DatesAndTimes\\Program.cs",
+  "SelectedNode": "\\LearningC#\\ForIterations\\ForIterations\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

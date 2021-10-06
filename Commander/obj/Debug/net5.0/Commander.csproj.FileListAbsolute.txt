@@ -1,0 +1,7 @@
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.csprojAssemblyReference.cache
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.AssemblyInfoInputs.cache
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.AssemblyInfo.cs
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.csproj.CoreCompileInputs.cache
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cs
+C:\brian_dev\DEV\SeeSharp\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cache

@@ -1,5 +1,5 @@
 ### // THIS IS THE DEFAULT GITHUB PAGES TEXT
-### // FEAR NOT!!!
+### // FEAR NOT!
 
 ## Welcome to GitHub Pages
 

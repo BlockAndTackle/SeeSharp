@@ -8,8 +8,9 @@
     "\\LearningC#\\Decisions\\Decisions",
     "\\LearningC#\\ForIterations",
     "\\LearningC#\\ForIterations\\ForIterations",
-    "\\LearningC#\\WorkingWithCollections\\WorkingWithCollections"
+    "\\LearningC#\\HelloWorld",
+    "\\LearningC#\\HelloWorld\\HelloWorld"
   ],
-  "SelectedNode": "\\LearningC#\\ForIterations\\ForIterations\\Program.cs",
+  "SelectedNode": "\\LearningC#\\HelloWorld\\HelloWorld\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

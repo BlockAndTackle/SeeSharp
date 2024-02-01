@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Relias\\bphillips_projects\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {}
+    "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {}
   },
   "projects": {
-    "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj": {
+    "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj",
+        "projectUniqueName": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj",
         "projectName": "SimpleApi",
-        "projectPath": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj",
-        "packagesPath": "C:\\Users\\bphillips\\.nuget\\packages\\",
-        "outputPath": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\obj\\",
+        "projectPath": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bphillips\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,25 +62,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Relias\\bphillips_projects\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {
+    "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "projectUniqueName": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
         "projectName": "SimpleAPI.Test",
-        "projectPath": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
-        "packagesPath": "C:\\Users\\bphillips\\.nuget\\packages\\",
-        "outputPath": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\test\\SimpleAPI.Test\\obj\\",
+        "projectPath": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\test\\SimpleAPI.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bphillips\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -91,9 +93,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj": {
-                "projectPath": "C:\\Relias\\bphillips_projects\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj"
+              "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj": {
+                "projectPath": "C:\\home\\brian\\DEV\\SeeSharp\\SimpleAPISln\\src\\SimpleApi\\SimpleApi.csproj"
               }
             }
           }
@@ -106,6 +109,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -139,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
